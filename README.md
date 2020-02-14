@@ -1,6 +1,6 @@
 # breast-cancer-detection
 
-### Huge thanks to the Youtuber Computer Science (https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA), for the help with this project. 
+### Huge thanks to the Youtuber "Computer Science" (https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA), for the help with this project. 
 # This program uses machine learning to classify to classify whether the breast cancer is benign or malignant.
 
 ![2019-12-01 (2)](https://user-images.githubusercontent.com/53153598/69921353-89cedd00-1456-11ea-9eeb-9ba39d6f5154.png)
